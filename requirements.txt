@@ -1,0 +1,8 @@
+
+streamlit
+requests
+moviepy
+numpy
+librosa
+scikit-learn
+joblib

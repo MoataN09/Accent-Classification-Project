@@ -1,4 +1,4 @@
-# Accent-Classification-Project
+
 # English Accent Classifier
 
 This project is a proof-of-concept AI tool for detecting English accents from videos. Built with Python and Streamlit, it can classify accents such as British, American, and Australian.
